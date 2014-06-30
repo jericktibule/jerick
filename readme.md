@@ -1,1 +1,3 @@
-Thi is a just a test. I am learning GIT
+This is a just a test. I am learning GIT
+
+Jerick
